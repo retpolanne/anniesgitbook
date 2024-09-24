@@ -29,3 +29,8 @@
 ## Emacs
 
 * [Emacs stuff](emacs/emacs-stuff.md)
+
+## Rust
+
+* [Functional programming in Rust](rust/functional-programming-in-rust.md)
+* [Rust Async/Await](rust/rust-async-await.md)
